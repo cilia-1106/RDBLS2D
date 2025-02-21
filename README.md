@@ -4,9 +4,13 @@ A reaction diffusion-based B-spline level set (RDBLS) method for structural topo
 This repository aims to introduce RDBLS2D, a 99-line MATLAB code that integrates the advantages of the B-spline based level set function and the reaction–diffusion update scheme to achieve efficient and effective structural topology optimization. It uses 66 and 33 lines for the main program and the B-spline level set representation method updated by the reaction–diffusion scheme, respectively. Also, repeated B-spline's knots on the boundary of the design domain were used in the code, which can naturally guarantee the connection between neighboring cells in the design of functionally graded materials.
 
 Here are the descriptions of each file:
+
 "RDBLS2D.m" is the standard code with B-spline simple knots.
+
 "RDBLS2D_repeated.m" is the standard code with B-spline repeated knots, and "NN.mat"** is a mandatory file to run this program.
+
 All the other files are the codes for the examples in Ref. [1] with default parameters.
+
 
 Please cite the following article if you use this code in your publications:
 
