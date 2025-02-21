@@ -11,6 +11,7 @@ All the other files are the codes for the examples in Ref. [1] with default para
 Please cite the following article if you use this code in your publications:
 
 [1] C. Wang, Y.M. Xie, X. Huang, X. Zhang, S. Zhou, MATLAB codes of the parametrized level set method for structural topology optimization using B-spline’s simple or repeated knots, Structural and Multidisciplinary Optimization, 67 (2024).
+
 [2] C. Wang, Y.M. Xie, X. Lin, S. Zhou, A reaction diffusion-based B-spline level set (RDBLS) method for structural topology optimization, Computer Methods in Applied Mechanics and Engineering, 398 (2022) 1–36.
 
 ------------------------------------------------------------------------------------------------------------
